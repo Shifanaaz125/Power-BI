@@ -1,4 +1,4 @@
-My brand-new Super Store Sales Dashboard offers a thorough summary of the most important analytical findings derived from the sales data. This interactive dashboard includes important elements and provides helpful insights into various business activities.
+Super Store Sales Dashboard offers a thorough summary of the most important analytical findings derived from the sales data. This interactive dashboard includes important elements and provides helpful insights into various business activities.
 
 It encapsulates a range of pivotal metrics, including shipping mode analysis, sales breakdown by categories and sub-categories, payment mode distribution, regional sales distribution, profit analysis based on order status, as well as monthly sales and profit trends over different years.
 
