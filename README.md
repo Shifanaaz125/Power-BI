@@ -7,5 +7,15 @@ Through this meticulously designed dashboard, a holistic perspective of the Supe
 
 ![image](https://github.com/Shifanaaz125/Power-BI/assets/120267469/bd684318-95d4-498b-935a-2d9072dca214)
 
+
+# Request for Feedback
+Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
+
+1. Data preprocessing: Did I miss any critical steps?
+2. Correct Method: Is the chosen analytical approach appropriate for this problem?
+3. Clarity: Is my explanation clear and easy to follow?
+   
+Your insights will help me improve this analysis. Feel free to comment directly on the notebook or reach out to me. Thank you!
+
  
  
