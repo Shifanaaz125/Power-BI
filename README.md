@@ -9,6 +9,9 @@ Through this meticulously designed dashboard, a holistic perspective of the Supe
 
 <img width="1000" alt="Screenshot 2023-07-24 163156" src="https://github.com/Shifanaaz125/Power-BI/assets/120267469/a3bf3ec5-ada4-4a24-9c75-de135361c02b">
 
+<img width="1000" alt="Screenshot 2023-07-26 201731" src="https://github.com/Shifanaaz125/Power-BI/assets/120267469/b28b9768-1f59-44a3-af05-3b12f0c0555a">
+
+
 
 # Request for Feedback
 Thank you for taking the time to review my notebook! I'd greatly appreciate your feedback on the following aspects:
