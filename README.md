@@ -7,6 +7,8 @@ Through this meticulously designed dashboard, a holistic perspective of the Supe
 
 ![image](https://github.com/Shifanaaz125/Power-BI/assets/120267469/bd684318-95d4-498b-935a-2d9072dca214)
 
+This comprehensive exploration delves into the intricate process of transforming Madhav's Sales data into a dynamic Profit statement using Power BI and DAX measures. 
+
 <img width="1000" alt="Screenshot 2023-07-24 163156" src="https://github.com/Shifanaaz125/Power-BI/assets/120267469/a3bf3ec5-ada4-4a24-9c75-de135361c02b">
 
 HR Analytics plays a crucial role in deciphering organizational data, enabling data-driven decision-making to ensure the effective functioning of businesses. Closely examining the data, I aimed to unravel factors associated with attrition rates, such as employee demographics, job satisfaction levels, and potential predictors of voluntary employee departures.
