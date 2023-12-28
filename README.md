@@ -11,6 +11,9 @@ Through this meticulously designed dashboard, a holistic perspective of the Supe
 
 <img width="1000" alt="Screenshot 2023-07-26 201731" src="https://github.com/Shifanaaz125/Power-BI/assets/120267469/b28b9768-1f59-44a3-af05-3b12f0c0555a">
 
+<img width="1000" alt="Screenshot 2023-08-27 132634" src="https://github.com/Shifanaaz125/Power-BI/assets/120267469/59b7ed15-d909-4334-9618-a145e10c4638">
+
+
 
 
 # Request for Feedback
